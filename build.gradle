@@ -21,7 +21,7 @@ ext {
 
 
 jar {
-	baseName = 'delivery-pipeline-inspection-api'
+	baseName = 'ap-pipeline-inspection-api'
 }
 
 sourceCompatibility = 1.8

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: paasta-delivery-pipeline-inspection-api
+    name: ap-pipeline-inspection-api
   http:
     multipart:
       maxFileSize: 1000Mb
